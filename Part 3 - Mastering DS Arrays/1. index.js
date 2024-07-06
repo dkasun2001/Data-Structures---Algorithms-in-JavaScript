@@ -57,4 +57,7 @@ console.log();
 /* console.log(myNewArray.shift());
 console.log(myNewArray); */
 
-console.log(myNewArray.deleteByIndex(3));
+console.log(myNewArray.deleteByIndex(3)); 
+
+
+
